@@ -1,7 +1,7 @@
 # Ling Han
 ## [Home](https://www.linghan.me/)  ~  [CV](https://www.linghan.me/CV)  ~   [Publications](https://www.linghan.me/publications)  ~  Research  ~   [Contact Me](https://www.linghan.me/CM)
 
-![image](https://media.licdn.com/dms/image/D4E16AQE1yfMF2smlXQ/profile-displaybackgroundimage-shrink_350_1400/0/1675223891394?e=1686787200&v=beta&t=FgGDpYDjS6rv2OGMv84hxZu2VUO50I2lFjx47hqY7pc)
+![image](https://media.licdn.com/dms/image/D4E16AQE1yfMF2smlXQ/profile-displaybackgroundimage-shrink_200_800/0/1675223891394?e=2147483647&v=beta&t=tLcv_ZBtOCTg1dWgEMtLO69RGPGF7ZGLJw6d7HZlYfk)
 
 ## Selected Research Projects
 
